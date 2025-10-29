@@ -34,7 +34,7 @@ Demonstrating smart-contract or token mechanics without using real ETH or tokens
 
 Creating visual demos for presentations, workshops, or training videos.
 
-Key Features (Safe & Educational)
+⚡ Key Features (Safe & Educational)
 
 Realistic visual simulation of ERC-20 token transfers between addresses.
 
