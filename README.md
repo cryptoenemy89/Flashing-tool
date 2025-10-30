@@ -2,7 +2,7 @@
 
 Overview:
 The Ethereum Flash Stablecoin Transfer Tool is a lightweight simulator designed to visually demonstrate ERC-20–style token transfers on the Ethereum network.
-Built with Python and Tkinter, this project is intended solely for educational, testing, and demonstration purposes — it does not create or send real blockchain transactions.
+Built with Python and Tkinter, this project is intended solely for educational, testing, and demonstration purposes - it does not create or send real blockchain transactions.
 
 Creates a visual simulation of Ethereum stablecoin-like transfers between wallet addresses.
 
